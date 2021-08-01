@@ -7,6 +7,8 @@ public class class1 {
 
         System.out.println("Batch 35/36 learn GitHub");
 
+        System.out.println("We like Git but we will like more when we have more practice ");
+
     }
 
 
